@@ -1,0 +1,17 @@
+{
+  "name": "node-logarithm-geometric-means",
+  "version": "0.0.0",
+  "description": "log-average",
+  "main": "logAverage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "underscore": "~1.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colinritchey/node-logarithm-geometric-means.git"
+  },
+  "author": "Colin Ritchey <colinritchey256@gmail.com>",
+}
